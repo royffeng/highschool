@@ -1,2 +1,2 @@
 # highschool
-Coursework completed in high school
+coursework completed in high school
